@@ -30,9 +30,5 @@ nvidia-smi -L
 echo "--------------------------"
 
 # How to use this script:
-
-# Make the script executable (if not already)
 # chmod +x mig_setup_7.sh
-
-# Run the script
 # ./mig_setup_7.sh
