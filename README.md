@@ -1,6 +1,6 @@
 # cgroups + MIG
 
-### File Descriptions
+## File Descriptions
 
 - `mig_flags.sh`: A bash script to enable or disable MIG CPU affinity settings as well as offering other toggles via flags
 
